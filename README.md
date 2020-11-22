@@ -1,2 +1,2 @@
 # Exercicio1_Repeticao_While
- Exercicio 1 de Repetição usando o while, fiz da maneira que a Nivia passou onde cada exercício usa uma estrutura diferente
+ Exercício 1 de Repetição utilizando While, fiz no Java que nem a Nivia pediu para os delas, onde cada exercício usa uma estrutura
